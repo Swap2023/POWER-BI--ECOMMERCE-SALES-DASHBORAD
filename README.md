@@ -1,4 +1,4 @@
-# POWER-BI--ECOMMERCE-SALES-DASHBORAD
+# POWER-BI--ECOMMERCE-SALES-DASHBORAD.
 * Created interactive dashboard to track and analyzed online sales data using MICROSOFT POWER BI.
 * Used complex parameters to drill down in worksheets and custimization using filters and slicers
 * Created connections, join new teables, calculations to manipulate data and enable user driven parameters for visualizations.
